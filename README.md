@@ -1,0 +1,1 @@
+This is the second beginner project from C# language. It is a Hangman game.
